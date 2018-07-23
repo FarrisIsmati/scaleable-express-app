@@ -1,0 +1,17 @@
+{
+  "name": "scaleable-express-app",
+  "version": "1.0.0",
+  "description": "chapter 1 study",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "supertest": "^3.1.0"
+  }
+}
